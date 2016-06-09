@@ -27,3 +27,4 @@ let aingUnikom = CollegeStudent(firstName: "evan", lastName: "gilang", schoolNam
 aingUnikom.schoolName
 aingUnikom.firstName
 print("yeay")
+print(aingUnikom)
