@@ -26,3 +26,4 @@ print(epan.firstName)
 let aingUnikom = CollegeStudent(firstName: "evan", lastName: "gilang", schoolName: "UNIKOM")
 aingUnikom.schoolName
 aingUnikom.firstName
+print("yeay")
